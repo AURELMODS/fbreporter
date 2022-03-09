@@ -5,13 +5,16 @@ ig: _.aurel_vllahi
 
 LINUX/TERMUX
 
-git clone https://github.com/ahgaurel1/fbreporter
+### git clone https://github.com/ahgaurel1/fbreporter
 
-cd fbreporter
+### cd fbreporter
 
-pip install requests
+### pip install requests
 
-python3 fbautoreporter.py
+### python3 fbautoreporter.py
+
+![capture](![image](![image]()
+
 
 This is for educational purposes only!!
 Joke!!
